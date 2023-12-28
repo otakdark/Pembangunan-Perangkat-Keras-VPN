@@ -1,33 +1,33 @@
 # MainModule Verilog Module
 
-This Verilog module serves as a starting point or main component within a larger hardware design.
+Modul Verilog `MainModule` ini merupakan kerangka dasar untuk perangkat keras VPN. Namun, perlu dicatat bahwa pembangunan VPN dalam Verilog adalah tugas kompleks yang membutuhkan pemahaman mendalam tentang algoritma kriptografi, protokol jaringan, dan teknik perangkat keras.
 
-## Description
+## Deskripsi
 
-The `MainModule` Verilog module provides a foundational structure for a hardware design. It may contain essential control logic, interfaces, or serve as the core module for your hardware project.
+Membangun VPN dalam Verilog adalah tugas yang sangat kompleks dan membutuhkan pemahaman mendalam tentang algoritma kriptografi, protokol jaringan, serta teknik perangkat keras. Implementasi yang disediakan dalam modul ini hanya sebagai kerangka dasar. Implementasi sebenarnya memerlukan integrasi algoritma kriptografi yang lebih kompleks, manajemen kunci yang tepat, protokol jaringan (seperti IPSec), dan lainnya. Kode ini hanya memberikan gambaran konseptual dan tidak bisa langsung digunakan dalam aplikasi VPN sehari-hari.
 
-## File Structure
+## Struktur File
 
-- `MainModule.v`: Main Verilog module serving a central role within the hardware design.
+- `MainModule.v`: Modul Verilog utama yang menyediakan struktur dasar untuk perangkat keras VPN.
 
-## Usage
+## Penggunaan
 
-Integrate `MainModule.v` into your Verilog project as a key component. Expand its functionality by adding necessary peripherals, modules, or functionalities based on your hardware design requirements.
+Integrasikan `MainModule.v` ke dalam proyek Verilog Anda sebagai komponen utama. Perluasan fungsionalitas dapat dilakukan dengan menambahkan fitur-fitur yang diperlukan sesuai dengan kebutuhan desain perangkat keras Anda.
 
-## Instructions
+## Instruksi
 
-To utilize `MainModule.v` effectively:
+Untuk menggunakan `MainModule.v` secara efektif:
 
-1. Include it within your Verilog project structure.
-2. Customize or extend its functionality as needed for your hardware design.
-3. Ensure compatibility and integration with other modules or components within the project.
+1. Sertakan modul ini dalam struktur proyek Verilog Anda.
+2. Sesuaikan atau perluas fungsionalitasnya sesuai kebutuhan desain perangkat keras Anda.
+3. Pastikan kompatibilitas dan integrasi dengan modul atau komponen lain dalam proyek.
 
-## Contribution
+## Kontribusi
 
-Contributions and enhancements to `MainModule.v` are encouraged. Feel free to refine, expand, or optimize its functionality to suit various hardware design scenarios.
+Kontribusi dan peningkatan pada `MainModule.v` sangat dihargai. Silakan berkontribusi dengan penyempurnaan, perluasan, atau optimalisasi fungsionalitasnya sesuai berbagai skenario desain perangkat keras.
 
-## License
+## Lisensi
 
-This code is provided under the [MIT License](https://github.com/otakdark).
+Kode ini disediakan di bawah [Lisensi MIT](https://github.com/otakdark).
 
-For any queries or further information related to `MainModule.v`, feel free to contact the maintainers.
+Untuk pertanyaan atau informasi lebih lanjut terkait `MainModule.v`, jangan ragu untuk menghubungi para pengelola proyek.
